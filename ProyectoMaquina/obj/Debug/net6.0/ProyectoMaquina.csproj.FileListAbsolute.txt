@@ -1,0 +1,14 @@
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\bin\Debug\net6.0\ProyectoMaquina.exe
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\bin\Debug\net6.0\ProyectoMaquina.deps.json
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\bin\Debug\net6.0\ProyectoMaquina.runtimeconfig.json
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\bin\Debug\net6.0\ProyectoMaquina.dll
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\bin\Debug\net6.0\ProyectoMaquina.pdb
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\obj\Debug\net6.0\ProyectoMaquina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\obj\Debug\net6.0\ProyectoMaquina.AssemblyInfoInputs.cache
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\obj\Debug\net6.0\ProyectoMaquina.AssemblyInfo.cs
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\obj\Debug\net6.0\ProyectoMaquina.csproj.CoreCompileInputs.cache
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\obj\Debug\net6.0\ProyectoMaquina.dll
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\obj\Debug\net6.0\refint\ProyectoMaquina.dll
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\obj\Debug\net6.0\ProyectoMaquina.pdb
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\obj\Debug\net6.0\ProyectoMaquina.genruntimeconfig.cache
+C:\Users\57310\Documents\ProyectoMaquina\ProyectoMaquina\obj\Debug\net6.0\ref\ProyectoMaquina.dll
